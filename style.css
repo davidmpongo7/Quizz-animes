@@ -1,0 +1,31 @@
+*{
+    background-color: orange
+}
+.question01{
+    font-style: italic;
+}
+
+.imgQuestions{
+    width: 40%;
+    float:right;
+}
+
+.imgFail01{
+    width: 35%;
+}
+
+#listAnswer{
+    font-size:25px;
+    padding-top: 80px;
+}
+
+#footer{
+    position: absolute;
+    padding-top: 25%;
+    padding-left: 50%
+}
+
+.imgCongrat{
+    display: block;   /*centrer une image*/
+    margin: 0px auto;
+}
